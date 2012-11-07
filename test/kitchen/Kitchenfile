@@ -1,0 +1,3 @@
+cookbook "monitoring" do
+  runtimes []
+end
